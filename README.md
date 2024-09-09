@@ -2,6 +2,7 @@ Front-End
 * HTML
 * CSS
 * BOOTSTRAP
+* JAVA SCRIPT
   
 Back-End
 * ASP.NET CORE MVC
